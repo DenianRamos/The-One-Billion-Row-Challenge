@@ -13,7 +13,7 @@ In this project, we will read measurement data from a text file, process it, and
 The project is designed to demonstrate efficient data processing techniques in Go.
 
 ## Tools
- ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)> 
+ ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
  
 ### Prerequisites
 
